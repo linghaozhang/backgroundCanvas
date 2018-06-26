@@ -1,0 +1,11 @@
+build
+node_modules
+.DS_Store
+.vscode/*
+/.vscode
+
+node_modules/*
+/node_modules
+
+.idea/*
+/.idea
