@@ -1,4 +1,4 @@
-!function (undefined) {
+!function () {
     "use strict"; //使用严格的标准
     var _global;
     /**
